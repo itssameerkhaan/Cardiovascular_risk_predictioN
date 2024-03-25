@@ -6,6 +6,11 @@ Cardiovascular diseases (CVDs) are the major cause of mortality worldwide. Accor
 Though CVDs cannot be treated, predicting the risk of the disease and taking the necessary precautions and medications can help to avoid severe symptoms and, in some cases, even death.
 As a result, it is critical that we accurately predict the risk of heart disease in order to avert as many fatalities as possible.
 
+**Acknowledgements**
+* <a href="https://my.clevelandclinic.org/health/diseases/21493-cardiovascular-disease">Detailed overview of disease</a>
+* <a href="https://grow.almabetter.com/data-science/home">about company</a>
+
+**Features**
 * I did some data wrangling and  data manipulations.
 * Data visualizaion, storytelling and experimenting with charts.
    - Number of paitents who having TenYearCHD or not.
