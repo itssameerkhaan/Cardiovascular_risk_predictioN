@@ -40,5 +40,12 @@ As a result, it is critical that we accurately predict the risk of heart disease
 * I exlained the model by using SHAP.
 * RandomForestClassifier algorithm is the best with a 0.82 AUC score.
 
+***Classification report***
+
+<img src="https://drive.google.com/uc?export=view&id=1ln7oeCiZS_x2dq40hTV_9ODUtwyJj8It" alt="Image Description" width="600" height="300">
+
+
+***Contributors***
+SAMEER KHAN
 
  
