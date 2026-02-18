@@ -3,7 +3,7 @@
 
 **Congenital heart disease** is one or more problems with the heart's structure that exist since birth. Congenital means that you're born with the condition. Congenital heart disease in adults and children can change the way blood flows through the heart.
 Cardiovascular diseases (CVDs) are the major cause of mortality worldwide. According to WHO, 17.9 million people died from CVDs in 2019, accounting for 32% of all global fatalities.
-Though CVDs cannot be treated, predicting the risk of the disease and taking the necessary precautions and medications can help to avoid severe symptoms and, in some cases, even death.
+Though CVDs cannot be treated, predicting the risk of the disease and taking the necessary precautions and medications can help to avoid severe symptoms and, in some cases, even death .
 As a result, it is critical that we accurately predict the risk of heart disease in order to avert as many fatalities as possible.
 
 **Acknowledgements**
